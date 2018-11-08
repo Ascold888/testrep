@@ -1,3 +1,15 @@
 body {
-    margin: 100px;
+    margin: 170px;
+}
+
+.apple {
+    width: 10px;
+}
+
+.orange {
+    color: orange;
+}
+
+.melon {
+    size: 5px;
 }
